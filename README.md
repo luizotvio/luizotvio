@@ -1,4 +1,7 @@
-## Olá, sou o Luiz Otávio!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3861&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0A9F5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiz+Otávio;I'm+25+years+old;I'm+from+Brazil;I'm+studying+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ## Estou aprendendo
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
